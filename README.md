@@ -20,4 +20,12 @@ The last 9 features are added from the Titanic passenger list on Wikipedia(https
 7. Lifeboat
 8. Body
 9. Class
+
 The new features are very similar to the original ones but they are more up-to-date and have much fewer missing values. Therefore, users can decide on the preferred features themselves.
+
+Steps to build a model:
+Inorder to build a ML model here I have follwed the following steps:
+1. importing the required libraries(pandas,matplotlib,sklearn,etc)
+2. importing the data
+3. Data preprocessing
+4. 
