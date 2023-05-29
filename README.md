@@ -11,13 +11,13 @@ The first 12 features are the same as in the Titanic competition - https://www.k
 
 The last 9 features are added from the Titanic passenger list on Wikipedia(https://en.wikipedia.org/wiki/Passengers_of_the_RMS_Titanic) and are as follows:
 
-WikiId
-Name
-Age
-Hometown
-Boarded
-Destination
-Lifeboat
-Body
-Class
+1. WikiId
+2. Name
+3. Age
+4. Hometown
+5. Boarded
+6. Destination
+7. Lifeboat
+8. Body
+9. Class
 The new features are very similar to the original ones but they are more up-to-date and have much fewer missing values. Therefore, users can decide on the preferred features themselves.
