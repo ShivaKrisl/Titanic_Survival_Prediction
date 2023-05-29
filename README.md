@@ -28,4 +28,14 @@ Inorder to build a ML model here I have follwed the following steps:
 1. importing the required libraries(pandas,matplotlib,sklearn,etc)
 2. importing the data
 3. Data preprocessing
-4. 
+4. Exploratory Data Analysis
+5. Model Training
+6. Model Evaluation
+
+Note = here I have used Jupyter Environment in order to use it offline you need to download jupyter from https://jupyter.org/install
+and also the required libraries used in the code from official documentaions
+1. https://pandas.pydata.org/docs/
+2. https://seaborn.pydata.org/
+3. https://matplotlib.org/
+4. https://scikit-learn.org/stable/index.html
+ 
