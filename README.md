@@ -1,5 +1,5 @@
 # Titanic_Survival_Prediction
-Titanic Survival Prediction is a classical Classification Problem. You can the dataset on kaagle https://www.kaggle.com/datasets/pavlofesenko/titanic-extended.
+Titanic Survival Prediction is a classical Classification Problem. You can the find dataset on kaagle https://www.kaggle.com/datasets/pavlofesenko/titanic-extended.
 
 About Dataset
 The data set has 3 csv files named 'full.csv', 'train.csv',and 'test.csv'. The train and test csv files were created from full.csv after data preprocessing
